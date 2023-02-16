@@ -1,0 +1,1 @@
+# This program conducts a sentimental analysis of book using the Jupyter Notebook
